@@ -1,2 +1,2 @@
-## Speech Recognition App
-##### A simple speech to text app.
+# Speech Recognition App
+A simple speech to text app.
